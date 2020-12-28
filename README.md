@@ -1,5 +1,6 @@
 <p align="center">
-<img src= "Screenshot_14.jpg">
+<img src= "Screenshot_12.jpg">
+<img src= "Screenshot_15.jpg">
 
 # CRUD dengan Django
 
